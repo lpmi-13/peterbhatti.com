@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: Up to zero! 🪐
+title: Happy Birthday Pete! 🪐
 ---
 
 <header id="page-header">
   <h1>
-    Up to zero! 🪐
+    Happy Birthday Pete! 🪐
   </h1>
   <p>Get started:</p>
   <ul>
@@ -16,6 +16,6 @@ title: Up to zero! 🪐
 
   <hr>
 
-  {% image "https://source.unsplash.com/1024x768/?beagle", "Random image of a beagle", "100%" %}
+  {% image "./src/assets/images/pete.jpeg", "Portrait of a Gentleman", "100%" %}
 
 </header>
