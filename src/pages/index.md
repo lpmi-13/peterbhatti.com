@@ -5,11 +5,11 @@ title: Happy Birthday Pete! 🪐
 
 <header id="page-header">
   <h1>
-    Happy Birthday Pete! 🪐
+Peter Bhatti 🪐
   </h1>
   <p>Get started:</p>
   <ul>
-    <li>Edit this page: <code>src/pages/index.md</code></li>
+    <li>Edit this page ya prick: <code>src/pages/index.md</code></li>
     <li>Add or edit navigation: <code>src/data/navigation.json</code></li>
     <li>Change colors and styles: <code>src/assets/styles/</code></li>
   </ul>
